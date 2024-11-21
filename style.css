@@ -1,0 +1,31 @@
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  h2, h3, p {
+    margin: 10px 0;
+  }
+  a {
+    display: block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: underline;
+  }
+  .user{
+    cursor: pointer;
+  }
+  .goback {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .goback:hover {
+    background-color: #0056b3;
+  }
